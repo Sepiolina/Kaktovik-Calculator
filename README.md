@@ -21,8 +21,8 @@ A specialized Windows desktop application designed to perform mathematical opera
 ## Screenshot
 
 ![Screenshot](screenshot.png)
-Base 10 : $22+16+1=39$
-Base 20 : $(1×20^1)+(19×20^0)=20+19=39$ = $1J$ in Base20
+- Base 10 : $22+16+1=39$
+- Base 20 : $(1×20^1)+(19×20^0)=20+19=39$ = $1J$ in Base20
 ## Documents
 - https://en.wikipedia.org/wiki/Kaktovik_numerals
 - https://www.dcode.fr/kaktovik-numerals
