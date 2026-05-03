@@ -1,3 +1,4 @@
+# 🔢 Kaktovik Calculator
 A specialized Windows desktop application designed to perform mathematical operations using the **Kaktovik numeral system**. This project was built to explore base-20 (vigesimal) logic and custom UI implementation in the .NET environment.
 
  > The Kaktovik numerals or Kaktovik Iñupiaq numerals[1] are a base-20 system of numerical digits created by Alaskan Iñupiat. They are visually iconic, with shapes that indicate the number being represented.
@@ -19,7 +20,7 @@ A specialized Windows desktop application designed to perform mathematical opera
 	- Note: As this is an unsigned educational project, Windows SmartScreen may show a warning. Click "More Info" -> "Run Anyway" to proceed.
 ## Screenshot
 
-![[screenshot.png|306]]
+![Screenshot](screenshot.png)
 Base 10 : $22+16+1=39$
 Base 20 : $(1×20^1)+(19×20^0)=20+19=39$ = $1J$ in Base20
 ## Documents
